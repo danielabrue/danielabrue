@@ -9,3 +9,12 @@ Mi deleite es catnatr para Dios, soy de **Republíca Dominicana**, tambien soy *
 * Marzo 15 Grabar mi segundo sencillo **No Voy A Temer**
 * Abril 01 grabar mi tercer sencillo **Eres Digno**
 * Abril 15 mi cuarto sencillo **Te Amo Dios**
+
+Estos som los 5 comandos que mas uso
+| Comando  | Descripción               |
+|----------|---------------------------|
+| ls       | Listar Dierectorios       |
+| clear    | Limpiar la Terminal       |
+| cd       | Cambiar Entre Directorios |
+| mkdir    | Crear un Directorio       |
+| rm dir   | Eliminar un directorio    |
