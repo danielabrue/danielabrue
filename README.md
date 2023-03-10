@@ -18,3 +18,7 @@ Estos som los 5 comandos que mas uso
 | cd       | Cambiar Entre Directorios |
 | mkdir    | Crear un Directorio       |
 | rm dir   | Eliminar un directorio    |
+
+```html
+<p> Estas son mis Alias </p>
+```
